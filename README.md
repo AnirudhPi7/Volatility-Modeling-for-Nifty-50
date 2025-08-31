@@ -58,3 +58,11 @@ The ARCH(1) model achieved lower prediction errors, with RMSE of 0.003 and MAE o
 The project demonstrated that ARCH and GARCH models are effective tools for capturing volatility clustering in Indian equity markets and for producing forward-looking risk metrics. The ARCH(1) model, in particular, offered superior forecasting accuracy for this dataset, while both models highlighted the importance of accounting for conditional variance dynamics. In the future, extending the testing horizon, incorporating asymmetric volatility models, and enriching the feature set with macroeconomic indicators could improve predictive power. Further work could also expand into multi-day horizon VaR forecasting and stress-testing under market shocks, strengthening the relevance of this approach for portfolio and risk management. Expanding the testing window and experimenting with variants such as EGARCH or GJR-GARCH would also provide a more comprehensive assessment.
 
 ---
+
+## Contributors
+- Anirudh A
+- Kowshik M
+- Moneesh B
+- Anushka
+
+---
